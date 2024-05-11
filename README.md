@@ -10,6 +10,8 @@ A collection of resources crafted by and for the WolfPack{2} 🐺
 * [Interesting and fun](./directory/interesting.md)
 * [Jobs and interviews](./directory/jobs.md)
 * [Presentation Slides](./directory/slides.md)
+* [Architecture](./directory/architecture.md)
+
 
 ## Adding a resource
 
