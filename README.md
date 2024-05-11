@@ -1,6 +1,6 @@
 # Resources
 
-A collection of resources crafted by and for the WolfPack 🐺
+A collection of resources crafted by and for the WolfPack{2} 🐺
 
 ## Directory
 
