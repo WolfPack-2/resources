@@ -1,6 +1,6 @@
 # Resources
 
-A collection of resources made by and for FAC18 📚
+A collection of resources crafted by and for the WolfPack 🐺
 
 ## Directory
 
