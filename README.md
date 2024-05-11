@@ -5,6 +5,7 @@ A collection of resources made by and for FAC18 📚
 ## Directory
 
 * [WolfPack{2} info and social](./directory/wolfpack{2}.md)
+* [Calender-event](./directory/calendar-events.md)
 * [HTML](./directory/html.md)
 * [CSS](./directory/css.md)
 * [Accessibility](./directory/a11y.md)
@@ -21,7 +22,7 @@ A collection of resources made by and for FAC18 📚
 * [Design Bursts](https://github.com/foundersandcoders/design-bursts)
 * [Presentation Slides](./directory/slides.md)
 * [Express and handlebars](./express.md)
-* [React](https://github.com/fac18/resources/blob/master/directory/react.md)
+* [React](./directory/react.md)
 
 ## Adding a resource
 
