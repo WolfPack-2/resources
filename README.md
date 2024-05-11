@@ -6,23 +6,10 @@ A collection of resources made by and for FAC18 📚
 
 * [WolfPack{2} info and social](./directory/wolfpack{2}.md)
 * [Calender-event](./directory/calendar-events.md)
-* [HTML](./directory/html.md)
-* [CSS](./directory/css.md)
-* [Accessibility](./directory/a11y.md)
-* [Software Architecture](./directory/architecture.md)
-* [Github](./directory/github.md)
-* [Javascript](./directory/javascript.md)
-* [APIs](./directory/api.md)
-* [NodeJS](./directory/node.md)
-* [Linting](./directory/linting.md)
 * [Browser/Code Editor Extensions](./directory/extensions.md)
 * [Interesting and fun](./directory/interesting.md)
-* [Podcasts](./directory/podcasts.md)
 * [Jobs and interviews](./directory/jobs.md)
-* [Design Bursts](https://github.com/foundersandcoders/design-bursts)
 * [Presentation Slides](./directory/slides.md)
-* [Express and handlebars](./express.md)
-* [React](./directory/react.md)
 
 ## Adding a resource
 
